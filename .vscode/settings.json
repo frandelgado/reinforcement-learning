@@ -1,6 +1,14 @@
 {
-    "python.pythonPath": "/home/francisco/.local/share/virtualenvs/reinforcement-learning-f6AVq7tk/bin/python",
+    "python.pythonPath": "/home/francisco/.virtualenvs/reinforcement-learning-f6AVq7tk/bin/python",
     "editor.fontFamily": "'Fira Code'",
     "editor.mouseWheelZoom": true,
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
+    "python.linting.pylintUseMinimalCheckers": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1,
+    "autoDocstring.docstringFormat": "numpy",
+    "autoDocstring.includeName": true
 }

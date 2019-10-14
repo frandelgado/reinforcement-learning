@@ -5,8 +5,14 @@ verify_ssl = true
 
 [dev-packages]
 pylint = "*"
+flake8 = "*"
+jupyter = "*"
 
 [packages]
+sortedcontainers = "*"
+jedi = "*"
+matplotlib = "*"
+jupyter = "*"
 
 [requires]
 python_version = "3.7"
